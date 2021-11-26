@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Very Basic 3D Viewer</title>
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+  <!-- The Viewer JS & CSS-->
+  <link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/style.min.css?v=v7.*" type="text/css">
+  <script language="JavaScript" src="https://developer.api.autodesk.com/modelderivative/v2/viewers/viewer3D.min.js?v=v7.*"></script>
+  <!-- <link rel="stylesheet" href="http://127.0.0.1:8080/vendor/style.min.css" type="text/css"> -->
+  <!-- <script language="JavaScript" src="http://127.0.0.1:8080/vendor/viewer.min.js"></script> -->
+  <script src="extension.js"></script>
+  <style>
+    /* .my-custom-ui {
+         position: absolute;
+         top: 0;
+         left: 0;
+         z-index: 5;
+         margin: .3em;
+         padding: .3em;
+         font-size: 1rem;
+         font-family: sans-serif;
+         background-color: rgba(255, 255, 255, 0.85);
+         border-radius: 8px;
+     }
+     .my-custom-ui span {
+         color: red;
+     }
+    .show-env-bg-button {
+      background: red;
+    }
+    .hide-env-bg-button {
+      background: blue;
+    } */
+</style>
+ </style>
+</head>
+
+<body>
+ 
+  
+  <div id="MyViewerDiv"></div>
+  
+  
+
+
+  <!-- Developer JS -->
+  <script>
+      const queryString = window.location.search;
+      // const options = {
+      //   enableArcs: true
+      // };
+      
+      let fileUrl = decodeURIComponent(queryString.split("=")[1]);
+      console.log(fileUrl);
+      var config3d = {
+        extensions: ['ViewerHelperExtension',],
+        loaderExtensions: { svf: "Autodesk.MemoryLimited" },
+        enableArcs: true,
+        disabledExtensions:{hyperlink:true}
+      };
+      var myViewerDiv = document.getElementById('MyViewerDiv');
+      var viewer = new Autodesk.Viewing.GuiViewer3D(myViewerDiv,config3d);
+      var options = {
+          'env' : 'Local',
+          'document' : './'+fileUrl,
+          enableArcs: true,
+          sharedPropertyDbPath: './'+fileUrl
+          
+      };
+     
+      Autodesk.Viewing.Initializer(options, async () => {
+        viewer.start(options.document, options);
+        console.log(viewer);
+      });
+
+      
+  </script>
+</body>
+
+</html>

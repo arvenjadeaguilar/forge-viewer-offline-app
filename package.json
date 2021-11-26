@@ -1,0 +1,20 @@
+{
+  "name": "viewer-javascript-offline.sample",
+  "version": "1.0.0",
+  "description": "[![Viewer](https://img.shields.io/badge/Viewer-v7-green.svg)](https://forge.autodesk.com/en/docs/viewer/v6/developers_guide/overview/)",
+  "main": "lmvworker.min.js",
+  "scripts": {
+    "start": "http-server -c-1 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Autodesk-Forge/viewer-javascript-offline.sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Autodesk-Forge/viewer-javascript-offline.sample/issues"
+  },
+  "homepage": "https://github.com/Autodesk-Forge/viewer-javascript-offline.sample#readme"
+}

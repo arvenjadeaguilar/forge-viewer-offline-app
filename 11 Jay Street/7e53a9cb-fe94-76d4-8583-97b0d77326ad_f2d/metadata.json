@@ -1,0 +1,73 @@
+{
+	"title":	"Sheet: A101 - Apt 3",
+	"sheet_order":	0,
+	"sheet_id":	"com.autodesk.dwf.ePlot_DA2F755C-89A8-4375-837C-3B22235B0B01",
+	"page_dimensions":	{
+		"page_width":	42.003937,
+		"page_height":	30,
+		"page_units":	"in",
+		"model_units":	"inches",
+		"source_to_logical_xform":	[25562885.290000, 0, 0, 0, 0, 25562885.290000, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+		"logical_offset_x":	0,
+		"logical_offset_y":	5511,
+		"logical_width":	1073741824,
+		"logical_height":	766886559,
+		"plot_width":	1048576,
+		"plot_height":	748913
+	},
+	"views":	[{
+			"name":	"Sheet: A101 - Apt 3",
+			"logical_bbox":	[0, 0, 1073741823, 766897580]
+		}],
+	"layers":	{
+		"1":	{
+			"name":	"Default"
+		}
+	},
+	"sheet_properties":	{
+		"":	{
+			"Author":	"NormalUser01",
+			"Created":	"7/7/2017 3:35:36 AM",
+			"Creator":	"Autodesk Revit 2015 20170421_0700(x64)",
+			"_UnitAngular":	"degree",
+			"_UnitArea":	"square_foot",
+			"_UnitLinear":	"foot",
+			"_UnitVolume":	"cubic_foot"
+		},
+		"Project Information [76675]":	{
+			"Client Name":	"",
+			"Document GUID":	"c46a1183-e459-4f57-ad9a-63735398acf5",
+			"Project Address":	"11 Jay St\r\nCambridge, MA 02139",
+			"Project Issue Date":	"9/15/2011",
+			"Project Name":	"11 Jay St",
+			"Project Number":	"1",
+			"Project Status":	"Constructed"
+		}
+	},
+	"geom_metrics":	{
+		"arcs":	0,
+		"circles":	0,
+		"circ_arcs":	4,
+		"viewports":	2,
+		"clips":	3,
+		"colors":	18,
+		"db_ids":	4,
+		"dots":	0,
+		"fills":	0,
+		"layers":	1,
+		"line_caps":	33,
+		"line_joins":	1,
+		"line_patterns":	0,
+		"line_pat_refs":	0,
+		"plines":	219,
+		"pline_points":	438,
+		"line_weights":	36,
+		"links":	0,
+		"miters":	33,
+		"ptris":	121,
+		"ptri_indices":	69420,
+		"ptri_points":	23905,
+		"rasters":	36,
+		"texts":	113
+	}
+}

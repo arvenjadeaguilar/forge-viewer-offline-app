@@ -1,0 +1,76 @@
+{
+	"title":	"Sheet: A108 - Elevation- King St.",
+	"sheet_order":	0,
+	"sheet_id":	"com.autodesk.dwf.ePlot_A11F35A2-2734-4850-B8EE-AC4113191AC7",
+	"page_dimensions":	{
+		"page_width":	17.003937,
+		"page_height":	11,
+		"page_units":	"in",
+		"model_units":	"inches",
+		"source_to_logical_xform":	[63145279, 0, 0, 0, 0, 63145279, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+		"logical_offset_x":	0,
+		"logical_offset_y":	12330,
+		"logical_width":	1073718346,
+		"logical_height":	694598069,
+		"plot_width":	1048576,
+		"plot_height":	678333
+	},
+	"views":	[{
+			"name":	"Sheet: A108 - Elevation- King St.",
+			"logical_bbox":	[0, 0, 1073718346, 694622729]
+		}],
+	"layers":	{
+		"1":	{
+			"name":	"Default"
+		}
+	},
+	"sheet_properties":	{
+		"":	{
+			"Author":	"NormalUser01",
+			"Created":	"7/16/2017 8:24:29 AM",
+			"Creator":	"Autodesk Revit 2017 20161006_0315(x64)",
+			"_UnitAngular":	"degree",
+			"_UnitArea":	"square_foot",
+			"_UnitLinear":	"foot",
+			"_UnitVolume":	"cubic_foot"
+		},
+		"Project Information [76675]":	{
+			"Author":	"",
+			"Building Name":	"",
+			"Client Name":	"Owner",
+			"Organization Description":	"",
+			"Organization Name":	"",
+			"Project Address":	"210 King St East, Toronto, ON, Canada, M5A 1J7",
+			"Project Issue Date":	"Issue Date",
+			"Project Name":	"Autodesk Toronto",
+			"Project Number":	"Project Number",
+			"Project Status":	"Project Status"
+		}
+	},
+	"geom_metrics":	{
+		"arcs":	0,
+		"circles":	8003,
+		"circ_arcs":	2,
+		"viewports":	2,
+		"clips":	2,
+		"colors":	144,
+		"db_ids":	1595,
+		"dots":	0,
+		"fills":	8514,
+		"layers":	1,
+		"line_caps":	63,
+		"line_joins":	4,
+		"line_patterns":	0,
+		"line_pat_refs":	0,
+		"plines":	29532,
+		"pline_points":	64943,
+		"line_weights":	103,
+		"links":	0,
+		"miters":	63,
+		"ptris":	129,
+		"ptri_indices":	34461,
+		"ptri_points":	11820,
+		"rasters":	0,
+		"texts":	62
+	}
+}
