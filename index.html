@@ -5,13 +5,19 @@
   <title>Very Basic 3D Viewer</title>
   <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
   <!-- The Viewer JS & CSS-->
-  <link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/style.min.css?v=v7.*" type="text/css">
-  <script language="JavaScript" src="https://developer.api.autodesk.com/modelderivative/v2/viewers/viewer3D.min.js?v=v7.*"></script>
-  <!-- <link rel="stylesheet" href="http://127.0.0.1:8080/vendor/style.min.css" type="text/css"> -->
-  <!-- <script language="JavaScript" src="http://127.0.0.1:8080/vendor/viewer.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/style.min.css?v=v7.*" type="text/css"> -->
+  <!-- <script language="JavaScript" src="https://developer.api.autodesk.com/modelderivative/v2/viewers/viewer3D.min.js?v=v7.*"></script> -->
+  <link rel="stylesheet" href="http://127.0.0.1:8080/vendor/style.min.css" type="text/css">
+  <script language="JavaScript" src="http://127.0.0.1:8080/vendor/viewer.min.js"></script>
+  <!-- <script language="JavaScript" src="https://rawgit.com/nodeca/pako/master/dist/pako.js"></script> -->
+  <script src="http://127.0.0.1:8080/vendor/jquery.min.js" ></script>
+  <link rel="stylesheet" href="http://127.0.0.1:8080/vendor/fontawesome.min.css" />
+  
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" /> -->
   <script src="extension.js"></script>
+  <script src="selectorExtension.js"></script>
   <style>
-    /* .my-custom-ui {
+    .my-custom-ui {
          position: absolute;
          top: 0;
          left: 0;
@@ -31,13 +37,83 @@
     }
     .hide-env-bg-button {
       background: blue;
-    } */
+    }
+    html body {
+    margin: 0px;
+    padding: 0px;
+    }
+
+    #layout {
+        width: 100%;
+        height: calc(100vh);
+    }
+
+    #sidebar {
+        size: 35px;
+    }
+
+    label.markup {
+        position: absolute;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 32;
+    }
+
+    label.update {
+        z-index: 1;
+    }
+
+    .temperatureBorder{
+        background-color: rgba(256, 256, 256, 0.5);
+        border: 1px solid black;
+        padding: 5px;
+    }
+
+    .temperatureHigh {
+        font-size: 25px;
+        color: red;
+    }
+
+    .temperatureOk {
+        font-size: 20px;
+        color: blue;
+    }
+
+    .temperatureYellow {
+        font-size: 30px;
+        color: yellow;
+    }
+
+    .maintenance{
+        font-size: 40px;
+        color: green;
+    }
+    .adsk-viewing-viewer{background:none!important}
 </style>
- </style>
 </head>
 
-<body>
- 
+<body style="background-color:#202830">
+  <div style="position:absolute;display:fix;z-index: 999999;" class="container">
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item"><button id="EnableDimension" class="navbar-button button">Enable Dimension</button></li>
+          <li class="navbar-item"><button id="EnableAngle" class="navbar-button button">Enable Angle</button></li>
+          <li class="navbar-item"><button id="EnableArea" class="navbar-button button">Enable Area</button></li>
+          <li class="navbar-item"><button id="EnableCalibrate" class="navbar-button button">Enable Celibrate</button></li>
+          <li class="navbar-item"><button id="EnableMarkup" class="navbar-button button">Add Markup</button></li>
+          <li class="navbar-item"><button id="DisableMarkup" class="navbar-button button">Save Markup</button></li>
+          <li class="navbar-item"><button id="AddLogoMarkup" class="navbar-button button">Add Logo Markup</button></li>
+          <li class="navbar-item"><button id="PleaseSelect" class="navbar-button button">Please select an entity</button></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <div style="position:absolute;display:fix;z-index: 999999;left: 50%; margin-left: -100px;" class="container">
+    <div id="selectEntity" style="display:none;width: 200px;text-align:center;background-color: #4c4c4c;color: white;padding: 8px;border-radius: 8px;">
+      Please select an entity
+    </div>
+  </div>
   
   <div id="MyViewerDiv"></div>
   
@@ -54,7 +130,7 @@
       let fileUrl = decodeURIComponent(queryString.split("=")[1]);
       console.log(fileUrl);
       var config3d = {
-        extensions: ['ViewerHelperExtension',],
+        extensions: ['ViewerHelperExtension','Autodesk.Measure', 'Autodesk.Viewing.MarkupsCore', 'Autodesk.ThreeJSOverlays'],
         loaderExtensions: { svf: "Autodesk.MemoryLimited" },
         enableArcs: true,
         disabledExtensions:{hyperlink:true}
@@ -66,11 +142,15 @@
           'document' : './'+fileUrl,
           enableArcs: true,
           sharedPropertyDbPath: './'+fileUrl
-          
       };
      
       Autodesk.Viewing.Initializer(options, async () => {
-        viewer.start(options.document, options);
+        Autodesk.Viewing.Private.InitParametersSetting.alpha=true;
+        viewer.start(options.document, options,()=>{
+          viewer.impl.renderer().setClearAlpha(0);
+          viewer.impl.glrenderer().setClearColor( 0xffffff, 0 );
+          viewer.impl.invalidate(true)
+        });
         console.log(viewer);
       });
 

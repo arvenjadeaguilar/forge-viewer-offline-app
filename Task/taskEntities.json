@@ -1,0 +1,590 @@
+{
+   "hld": [
+      {
+         "type": "DIMENSION",
+         "handle": "3192",
+         "ownerHandle": "1F",
+         "layer": "CGO-DIM-HLD",
+         "block": "*D72",
+         "anchorPoint": {
+            "x": -1721.028611872831,
+            "y": 1432.557320883629,
+            "z": 0
+         },
+         "middleOfText": {
+            "x": -1751.599921860653,
+            "y": 1439.676965606722,
+            "z": 0
+         },
+         "dimensionType": 32,
+         "text": "Hold <>",
+         "attachmentPoint": 5,
+         "actualMeasurement": 61.14261997564335,
+         "linearOrAngularPoint1": {
+            "x": -1782.171231848474,
+            "y": 1413.881783260497,
+            "z": 0
+         },
+         "linearOrAngularPoint2": {
+            "x": -1721.028611872831,
+            "y": 1413.881783260497,
+            "z": 0
+         },
+         "entity_name": "dimension",
+         "dbId": 3545,
+         "blockType": "Dimensions (16)"
+      }
+   ],
+   "rfi": [
+      {
+         "type": "MULTILEADER",
+         "handle": "2A84",
+         "ownerHandle": "1F",
+         "layer": "CGO-RFI",
+         "position": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+         },
+         "xScale": 6,
+         "text": "{\\fSFNS Display|b0|i0|c0|p2;Confirm location of yada yada}LEADER_LINE{",
+         "yScale": 6,
+         "zScale": 0,
+         "columnSpacing": 0,
+         "rowSpacing": 1,
+         "entity_name": "Multi-leader [2A84]",
+         "dbId": 3059,
+         "blockType": "Leaders (22)"
+      },
+      {
+         "type": "MULTILEADER",
+         "handle": "2C81",
+         "ownerHandle": "1F",
+         "layer": "CGO-RFI",
+         "position": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+         },
+         "xScale": 6,
+         "text": "{\\fSFNS Display|b0|i0|c0|p2;Confirm location of yada yada}LEADER_LINE{",
+         "yScale": 6,
+         "zScale": 0,
+         "columnSpacing": 0,
+         "rowSpacing": 1,
+         "entity_name": "Multi-leader [2C81]",
+         "dbId": 3076,
+         "blockType": "Leaders (22)"
+      }
+   ],
+   "vfy": [
+      {
+         "type": "DIMENSION",
+         "handle": "334E",
+         "ownerHandle": "1F",
+         "layer": "CGO-DIM-VFY",
+         "block": "*D86",
+         "anchorPoint": {
+            "x": -1239.504090534852,
+            "y": 1432.557320883629,
+            "z": 0
+         },
+         "middleOfText": {
+            "x": -1270.075400522674,
+            "y": 1439.676965606722,
+            "z": 0
+         },
+         "dimensionType": 32,
+         "text": "Hold <>",
+         "attachmentPoint": 5,
+         "actualMeasurement": 61.14261997564335,
+         "linearOrAngularPoint1": {
+            "x": -1300.646710510496,
+            "y": 1413.881783260497,
+            "z": 0
+         },
+         "linearOrAngularPoint2": {
+            "x": -1239.504090534852,
+            "y": 1413.881783260497,
+            "z": 0
+         },
+         "entity_name": "dimension",
+         "dbId": 3586,
+         "blockType": "Dimensions (16)"
+      }
+   ],
+   "elc": [
+      {
+         "type": "INSERT",
+         "handle": "389F",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "WOI-CORE",
+         "position": {
+            "x": -579.1048744793266,
+            "y": 1206.83114143917,
+            "z": 0
+         },
+         "entity_name": "WOI-CORE [389F]",
+         "dbId": 3796,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "38A1",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D94",
+               "anchorPoint": {
+                  "x": -579.1048744793266,
+                  "y": 1225.303032297056,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -568.6065978968415,
+                  "y": 1220.303032297056,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 20.99655316497001,
+               "linearOrAngularPoint1": {
+                  "x": -558.1083213143565,
+                  "y": 1245.05060056092,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -579.1048744793266,
+                  "y": 1206.83114143917,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 3798,
+               "blockType": "Dimensions (16)",
+               "distance": 0
+            },
+            {
+               "type": "DIMENSION",
+               "handle": "38A4",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D95",
+               "anchorPoint": {
+                  "x": -597.6074331874565,
+                  "y": 1206.831141439171,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -604.701999540643,
+                  "y": 1182.12119049954,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 49.41990187926103,
+               "linearOrAngularPoint1": {
+                  "x": -558.1083213143565,
+                  "y": 1157.411239559909,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -579.1048744793266,
+                  "y": 1206.83114143917,
+                  "z": 0
+               },
+               "angle": 90,
+               "entity_name": "dimension",
+               "dbId": 3801,
+               "blockType": "Dimensions (16)",
+               "distance": 0
+            }
+         ]
+      },
+      {
+         "type": "INSERT",
+         "handle": "3E04",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "pd",
+         "position": {
+            "x": -773.5907412774804,
+            "y": 1023.125238617544,
+            "z": 0
+         },
+         "entity_name": "pd [3E04]",
+         "dbId": 4016,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "3F5F",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D105",
+               "anchorPoint": {
+                  "x": -773.3157412673627,
+                  "y": 1087.225100795436,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -737.3157412673626,
+                  "y": 1092.225100795436,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 72,
+               "linearOrAngularPoint1": {
+                  "x": -701.3157412673627,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -773.3157412673627,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 4358,
+               "blockType": "Dimensions (16)",
+               "distance": 0.27500001011776476
+            }
+         ]
+      },
+      {
+         "type": "INSERT",
+         "handle": "3E19",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "pd",
+         "position": {
+            "x": -701.5907412774804,
+            "y": 1023.125238617544,
+            "z": 0
+         },
+         "entity_name": "pd [3E19]",
+         "dbId": 4037,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "3F5E",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D104",
+               "anchorPoint": {
+                  "x": -701.3157412673627,
+                  "y": 1087.225100795436,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -665.3157412673627,
+                  "y": 1092.225100795436,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 72,
+               "linearOrAngularPoint1": {
+                  "x": -629.3157412673626,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -701.3157412673627,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 4357,
+               "blockType": "Dimensions (16)",
+               "distance": 0.27500001011776476
+            },
+            {
+               "type": "DIMENSION",
+               "handle": "3F5F",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D105",
+               "anchorPoint": {
+                  "x": -773.3157412673627,
+                  "y": 1087.225100795436,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -737.3157412673626,
+                  "y": 1092.225100795436,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 72,
+               "linearOrAngularPoint1": {
+                  "x": -701.3157412673627,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -773.3157412673627,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 4358,
+               "blockType": "Dimensions (16)",
+               "distance": 0.27500001011776476
+            }
+         ]
+      },
+      {
+         "type": "INSERT",
+         "handle": "3E2E",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "pd",
+         "position": {
+            "x": -629.5907412774804,
+            "y": 1023.125238617544,
+            "z": 0
+         },
+         "entity_name": "pd [3E2E]",
+         "dbId": 4058,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "3F5E",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D104",
+               "anchorPoint": {
+                  "x": -701.3157412673627,
+                  "y": 1087.225100795436,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -665.3157412673627,
+                  "y": 1092.225100795436,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 72,
+               "linearOrAngularPoint1": {
+                  "x": -629.3157412673626,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -701.3157412673627,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 4357,
+               "blockType": "Dimensions (16)",
+               "distance": 0.27500001011787845
+            },
+            {
+               "type": "DIMENSION",
+               "handle": "3F92",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D106",
+               "anchorPoint": {
+                  "x": -629.3157412673626,
+                  "y": 1087.225100795436,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -597.8157412673627,
+                  "y": 1092.232937786032,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 63,
+               "linearOrAngularPoint1": {
+                  "x": -566.3157412673626,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -629.3157412673626,
+                  "y": 1023.125238615953,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 4373,
+               "blockType": "Dimensions (16)",
+               "distance": 0.27500001011787845
+            }
+         ]
+      },
+      {
+         "type": "INSERT",
+         "handle": "400D",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "WOI-CORE",
+         "position": {
+            "x": -709.840329187164,
+            "y": 1206.83114143917,
+            "z": 0
+         },
+         "entity_name": "WOI-CORE [400D]",
+         "dbId": 4379,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "400F",
+               "ownerHandle": "1F",
+               "layer": "AWOI-JBOX-TX",
+               "block": "*D107",
+               "anchorPoint": {
+                  "x": -709.840329187164,
+                  "y": 1225.303032297056,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -699.3420526046791,
+                  "y": 1220.303032297056,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 20.99655316497001,
+               "linearOrAngularPoint1": {
+                  "x": -688.8437760221941,
+                  "y": 1245.05060056092,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -709.840329187164,
+                  "y": 1206.83114143917,
+                  "z": 0
+               },
+               "entity_name": "dimension",
+               "dbId": 4381,
+               "blockType": "Dimensions (16)",
+               "distance": 0
+            }
+         ]
+      },
+      {
+         "type": "INSERT",
+         "handle": "418C",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "WOI-CORE",
+         "position": {
+            "x": -832.3982974869499,
+            "y": 1389.366989198074,
+            "z": 0
+         },
+         "entity_name": "WOI-CORE [418C]",
+         "dbId": 4527,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "4197",
+               "ownerHandle": "1F",
+               "layer": "CGO-JBOX-TX-ELC",
+               "block": "*D116",
+               "anchorPoint": {
+                  "x": -832.3982974869499,
+                  "y": 1408.042526821206,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -862.9696074747716,
+                  "y": 1408.042526821206,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 61.14261997564335,
+               "linearOrAngularPoint1": {
+                  "x": -893.5409174625933,
+                  "y": 1389.366989198074,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -832.3982974869499,
+                  "y": 1389.366989198074,
+                  "z": 0
+               },
+               "extendedData": {
+                  "applicationName": "ACAD",
+                  "customStrings": [
+                     "DSTYLE"
+                  ]
+               },
+               "entity_name": "dimension",
+               "dbId": 4528,
+               "blockType": "Dimensions (16)",
+               "distance": 0
+            }
+         ]
+      },
+      {
+         "type": "INSERT",
+         "handle": "4480",
+         "ownerHandle": "1F",
+         "layer": "CGO-Jbox-ELEC",
+         "name": "JB2",
+         "position": {
+            "x": -832.3982974869499,
+            "y": 1341.285226442134,
+            "z": 0
+         },
+         "entity_name": "JB2 [4480]",
+         "dbId": 4575,
+         "blockType": "Blocks (36)",
+         "dimensions": [
+            {
+               "type": "DIMENSION",
+               "handle": "4442",
+               "ownerHandle": "1F",
+               "layer": "CGO-JBOX-TX-ELC",
+               "block": "*D119",
+               "anchorPoint": {
+                  "x": -832.3982974869499,
+                  "y": 1359.960764065266,
+                  "z": 0
+               },
+               "middleOfText": {
+                  "x": -862.9696074747716,
+                  "y": 1359.960764065266,
+                  "z": 0
+               },
+               "dimensionType": 32,
+               "attachmentPoint": 5,
+               "actualMeasurement": 61.14261997564335,
+               "linearOrAngularPoint1": {
+                  "x": -893.5409174625933,
+                  "y": 1341.285226442134,
+                  "z": 0
+               },
+               "linearOrAngularPoint2": {
+                  "x": -832.3982974869499,
+                  "y": 1341.285226442134,
+                  "z": 0
+               },
+               "extendedData": {
+                  "applicationName": "ACAD",
+                  "customStrings": [
+                     "DSTYLE"
+                  ]
+               },
+               "entity_name": "dimension",
+               "dbId": 4560,
+               "blockType": "Dimensions (16)",
+               "distance": 0
+            }
+         ]
+      }
+   ]
+}

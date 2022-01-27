@@ -1,0 +1,1367 @@
+{
+   "data": {
+      "type": "objects",
+      "objects": [
+         {
+            "objectid": 24,
+            "objects": [
+               {
+                  "objectid": 4631,
+                  "objects": [
+                     {
+                        "objectid": 4363,
+                        "name": "elec-dettag [3F64]"
+                     },
+                     {
+                        "objectid": 4575,
+                        "name": "JB2 [4480]"
+                     },
+                     {
+                        "objectid": 4309,
+                        "name": "P_441HA2SXHC [3F29]"
+                     },
+                     {
+                        "objectid": 4322,
+                        "name": "P_441HA2SXHC [3F36]"
+                     },
+                     {
+                        "objectid": 4335,
+                        "name": "P_441HA2SXHC [3F43]"
+                     },
+                     {
+                        "objectid": 4119,
+                        "name": "P_DB1F18SP [3E6B]"
+                     },
+                     {
+                        "objectid": 4132,
+                        "name": "P_DB1F18SP [3E78]"
+                     },
+                     {
+                        "objectid": 4145,
+                        "name": "P_DB1F18SP [3E85]"
+                     },
+                     {
+                        "objectid": 4158,
+                        "name": "P_DB1F18SP [3E92]"
+                     },
+                     {
+                        "objectid": 3902,
+                        "name": "P_QH63444NR [3D92]"
+                     },
+                     {
+                        "objectid": 3922,
+                        "name": "P_QH63444NR [3DA6]"
+                     },
+                     {
+                        "objectid": 3942,
+                        "name": "P_QH63444NR [3DBA]"
+                     },
+                     {
+                        "objectid": 4249,
+                        "name": "P_QH64748NR [3EED]"
+                     },
+                     {
+                        "objectid": 4269,
+                        "name": "P_QH64748NR [3F01]"
+                     },
+                     {
+                        "objectid": 4289,
+                        "name": "P_QH64748NR [3F15]"
+                     },
+                     {
+                        "objectid": 4079,
+                        "name": "P_QH67994BYIL [3E43]"
+                     },
+                     {
+                        "objectid": 4099,
+                        "name": "P_QH67994BYIL [3E57]"
+                     },
+                     {
+                        "objectid": 4017,
+                        "name": "P_QH68509NR [3E05]"
+                     },
+                     {
+                        "objectid": 4038,
+                        "name": "P_QH68509NR [3E1A]"
+                     },
+                     {
+                        "objectid": 4059,
+                        "name": "P_QH68509NR [3E2F]"
+                     },
+                     {
+                        "objectid": 4171,
+                        "name": "P_YPSB2036F [3E9F]"
+                     },
+                     {
+                        "objectid": 4184,
+                        "name": "P_YPSB2036F [3EAC]"
+                     },
+                     {
+                        "objectid": 4197,
+                        "name": "P_YPSB2036F [3EB9]"
+                     },
+                     {
+                        "objectid": 4210,
+                        "name": "P_YPSB2036F [3EC6]"
+                     },
+                     {
+                        "objectid": 4223,
+                        "name": "P_YPSB2036F [3ED3]"
+                     },
+                     {
+                        "objectid": 4236,
+                        "name": "P_YPSB2036F [3EE0]"
+                     },
+                     {
+                        "objectid": 3962,
+                        "name": "P_YT7227L [3DCE]"
+                     },
+                     {
+                        "objectid": 3980,
+                        "name": "P_YT7227L [3DE0]"
+                     },
+                     {
+                        "objectid": 3998,
+                        "name": "P_YT7227L [3DF2]"
+                     },
+                     {
+                        "objectid": 4016,
+                        "name": "pd [3E04]"
+                     },
+                     {
+                        "objectid": 4037,
+                        "name": "pd [3E19]"
+                     },
+                     {
+                        "objectid": 4058,
+                        "name": "pd [3E2E]"
+                     },
+                     {
+                        "objectid": 3765,
+                        "name": "WOI-CORE [380D]"
+                     },
+                     {
+                        "objectid": 3796,
+                        "name": "WOI-CORE [389F]"
+                     },
+                     {
+                        "objectid": 4379,
+                        "name": "WOI-CORE [400D]"
+                     },
+                     {
+                        "objectid": 4527,
+                        "name": "WOI-CORE [418C]"
+                     }
+                  ],
+                  "name": "Blocks (36)"
+               },
+               {
+                  "objectid": 4640,
+                  "objects": [
+                     {
+                        "objectid": 4629,
+                        "objects": [
+                           {
+                              "objectid": 4398,
+                              "name": "ANSI36 [406C]"
+                           }
+                        ],
+                        "name": "Pattern (1)"
+                     },
+                     {
+                        "objectid": 4639,
+                        "objects": [
+                           {
+                              "objectid": 3580,
+                              "name": "Solid [3291]"
+                           },
+                           {
+                              "objectid": 3591,
+                              "name": "Solid [3354]"
+                           },
+                           {
+                              "objectid": 3664,
+                              "name": "Solid [36F6]"
+                           },
+                           {
+                              "objectid": 4512,
+                              "name": "Solid [4132]"
+                           }
+                        ],
+                        "name": "Solid (4)"
+                     }
+                  ],
+                  "name": "Hatches (5)"
+               },
+               {
+                  "objectid": 4635,
+                  "objects": [
+                     {
+                        "objectid": 3060,
+                        "name": "MText [2A87]"
+                     },
+                     {
+                        "objectid": 3070,
+                        "name": "MText [2ADF]"
+                     },
+                     {
+                        "objectid": 3077,
+                        "name": "MText [2C82]"
+                     },
+                     {
+                        "objectid": 3079,
+                        "name": "MText [2ED2]"
+                     },
+                     {
+                        "objectid": 3080,
+                        "name": "MText [2ED7]"
+                     },
+                     {
+                        "objectid": 3081,
+                        "name": "MText [2ED8]"
+                     },
+                     {
+                        "objectid": 3082,
+                        "name": "MText [2ED9]"
+                     },
+                     {
+                        "objectid": 3084,
+                        "name": "MText [2EDB]"
+                     },
+                     {
+                        "objectid": 3085,
+                        "name": "MText [2EDC]"
+                     },
+                     {
+                        "objectid": 3086,
+                        "name": "MText [2EDD]"
+                     },
+                     {
+                        "objectid": 3090,
+                        "name": "MText [2EE2]"
+                     },
+                     {
+                        "objectid": 3091,
+                        "name": "MText [2EF5]"
+                     },
+                     {
+                        "objectid": 3097,
+                        "name": "MText [2F67]"
+                     },
+                     {
+                        "objectid": 3098,
+                        "name": "MText [2F68]"
+                     },
+                     {
+                        "objectid": 3099,
+                        "name": "MText [2F69]"
+                     },
+                     {
+                        "objectid": 3100,
+                        "name": "MText [2F6A]"
+                     },
+                     {
+                        "objectid": 3526,
+                        "name": "MText [3114]"
+                     },
+                     {
+                        "objectid": 3540,
+                        "name": "MText [317B]"
+                     },
+                     {
+                        "objectid": 3549,
+                        "name": "MText [31CC]"
+                     },
+                     {
+                        "objectid": 3551,
+                        "name": "MText [31E8]"
+                     },
+                     {
+                        "objectid": 3553,
+                        "name": "MText [31F3]"
+                     },
+                     {
+                        "objectid": 3555,
+                        "name": "MText [31F5]"
+                     },
+                     {
+                        "objectid": 3557,
+                        "name": "MText [31F7]"
+                     },
+                     {
+                        "objectid": 3559,
+                        "name": "MText [31F9]"
+                     },
+                     {
+                        "objectid": 3561,
+                        "name": "MText [31FB]"
+                     },
+                     {
+                        "objectid": 3562,
+                        "name": "MText [31FC]"
+                     },
+                     {
+                        "objectid": 3563,
+                        "name": "MText [3207]"
+                     },
+                     {
+                        "objectid": 3565,
+                        "name": "MText [321B]"
+                     },
+                     {
+                        "objectid": 3566,
+                        "name": "MText [3222]"
+                     },
+                     {
+                        "objectid": 3567,
+                        "name": "MText [3223]"
+                     },
+                     {
+                        "objectid": 3574,
+                        "name": "MText [323D]"
+                     },
+                     {
+                        "objectid": 3576,
+                        "name": "MText [324D]"
+                     },
+                     {
+                        "objectid": 3577,
+                        "name": "MText [3255]"
+                     },
+                     {
+                        "objectid": 3578,
+                        "name": "MText [3256]"
+                     },
+                     {
+                        "objectid": 3587,
+                        "name": "MText [334F]"
+                     },
+                     {
+                        "objectid": 3588,
+                        "name": "MText [3350]"
+                     },
+                     {
+                        "objectid": 3589,
+                        "name": "MText [3351]"
+                     },
+                     {
+                        "objectid": 3590,
+                        "name": "MText [3352]"
+                     },
+                     {
+                        "objectid": 3594,
+                        "name": "MText [3357]"
+                     },
+                     {
+                        "objectid": 3596,
+                        "name": "MText [3359]"
+                     },
+                     {
+                        "objectid": 3598,
+                        "name": "MText [335C]"
+                     },
+                     {
+                        "objectid": 3599,
+                        "name": "MText [3361]"
+                     },
+                     {
+                        "objectid": 3600,
+                        "name": "MText [3363]"
+                     },
+                     {
+                        "objectid": 3603,
+                        "name": "MText [3368]"
+                     },
+                     {
+                        "objectid": 3604,
+                        "name": "MText [3369]"
+                     },
+                     {
+                        "objectid": 3610,
+                        "name": "MText [3370]"
+                     },
+                     {
+                        "objectid": 3611,
+                        "name": "MText [3371]"
+                     },
+                     {
+                        "objectid": 3612,
+                        "name": "MText [3372]"
+                     },
+                     {
+                        "objectid": 3613,
+                        "name": "MText [3373]"
+                     },
+                     {
+                        "objectid": 3615,
+                        "name": "MText [3375]"
+                     },
+                     {
+                        "objectid": 3616,
+                        "name": "MText [3376]"
+                     },
+                     {
+                        "objectid": 3617,
+                        "name": "MText [3377]"
+                     },
+                     {
+                        "objectid": 3622,
+                        "name": "MText [3526]"
+                     },
+                     {
+                        "objectid": 3633,
+                        "name": "MText [3533]"
+                     },
+                     {
+                        "objectid": 3638,
+                        "name": "MText [3539]"
+                     },
+                     {
+                        "objectid": 3639,
+                        "name": "MText [353A]"
+                     },
+                     {
+                        "objectid": 3652,
+                        "name": "MText [3605]"
+                     },
+                     {
+                        "objectid": 3653,
+                        "name": "MText [362A]"
+                     },
+                     {
+                        "objectid": 3657,
+                        "name": "MText [3640]"
+                     },
+                     {
+                        "objectid": 3658,
+                        "name": "MText [36C3]"
+                     },
+                     {
+                        "objectid": 3660,
+                        "name": "MText [36D9]"
+                     },
+                     {
+                        "objectid": 3662,
+                        "name": "MText [36F4]"
+                     },
+                     {
+                        "objectid": 3663,
+                        "name": "MText [36F5]"
+                     },
+                     {
+                        "objectid": 3667,
+                        "name": "MText [36F9]"
+                     },
+                     {
+                        "objectid": 3669,
+                        "name": "MText [36FB]"
+                     },
+                     {
+                        "objectid": 3670,
+                        "name": "MText [36FE]"
+                     },
+                     {
+                        "objectid": 3671,
+                        "name": "MText [36FF]"
+                     },
+                     {
+                        "objectid": 3674,
+                        "name": "MText [3702]"
+                     },
+                     {
+                        "objectid": 3675,
+                        "name": "MText [3703]"
+                     },
+                     {
+                        "objectid": 3681,
+                        "name": "MText [3709]"
+                     },
+                     {
+                        "objectid": 3682,
+                        "name": "MText [370A]"
+                     },
+                     {
+                        "objectid": 3683,
+                        "name": "MText [370E]"
+                     },
+                     {
+                        "objectid": 3684,
+                        "name": "MText [370F]"
+                     },
+                     {
+                        "objectid": 3685,
+                        "name": "MText [3710]"
+                     },
+                     {
+                        "objectid": 3686,
+                        "name": "MText [3715]"
+                     },
+                     {
+                        "objectid": 3689,
+                        "name": "MText [3725]"
+                     },
+                     {
+                        "objectid": 3690,
+                        "name": "MText [3726]"
+                     },
+                     {
+                        "objectid": 3692,
+                        "name": "MText [372B]"
+                     },
+                     {
+                        "objectid": 3695,
+                        "name": "MText [372E]"
+                     },
+                     {
+                        "objectid": 3697,
+                        "name": "MText [3730]"
+                     },
+                     {
+                        "objectid": 3766,
+                        "name": "MText [380E]"
+                     },
+                     {
+                        "objectid": 3767,
+                        "name": "MText [3859]"
+                     },
+                     {
+                        "objectid": 3769,
+                        "name": "MText [3863]"
+                     },
+                     {
+                        "objectid": 3771,
+                        "name": "MText [3866]"
+                     },
+                     {
+                        "objectid": 3810,
+                        "name": "MText [38BF]"
+                     },
+                     {
+                        "objectid": 3811,
+                        "name": "MText [38C6]"
+                     },
+                     {
+                        "objectid": 3812,
+                        "name": "MText [38C7]"
+                     },
+                     {
+                        "objectid": 3817,
+                        "name": "MText [38CC]"
+                     },
+                     {
+                        "objectid": 3818,
+                        "name": "MText [38CD]"
+                     },
+                     {
+                        "objectid": 3819,
+                        "name": "MText [38CE]"
+                     },
+                     {
+                        "objectid": 3820,
+                        "name": "MText [38CF]"
+                     },
+                     {
+                        "objectid": 3825,
+                        "name": "MText [38D4]"
+                     },
+                     {
+                        "objectid": 3826,
+                        "name": "MText [38D5]"
+                     },
+                     {
+                        "objectid": 3876,
+                        "name": "MText [3B9C]"
+                     },
+                     {
+                        "objectid": 4359,
+                        "name": "MText [3F60]"
+                     },
+                     {
+                        "objectid": 4360,
+                        "name": "MText [3F61]"
+                     },
+                     {
+                        "objectid": 4361,
+                        "name": "MText [3F62]"
+                     },
+                     {
+                        "objectid": 4362,
+                        "name": "MText [3F63]"
+                     },
+                     {
+                        "objectid": 4401,
+                        "name": "MText [406F]"
+                     },
+                     {
+                        "objectid": 4404,
+                        "name": "MText [407B]"
+                     },
+                     {
+                        "objectid": 4405,
+                        "name": "MText [4084]"
+                     },
+                     {
+                        "objectid": 4406,
+                        "name": "MText [408D]"
+                     },
+                     {
+                        "objectid": 4479,
+                        "name": "MText [40EF]"
+                     },
+                     {
+                        "objectid": 4489,
+                        "name": "MText [4105]"
+                     },
+                     {
+                        "objectid": 4490,
+                        "name": "MText [4106]"
+                     },
+                     {
+                        "objectid": 4493,
+                        "name": "MText [4109]"
+                     },
+                     {
+                        "objectid": 4494,
+                        "name": "MText [410A]"
+                     },
+                     {
+                        "objectid": 4500,
+                        "name": "MText [4115]"
+                     },
+                     {
+                        "objectid": 4503,
+                        "name": "MText [4118]"
+                     },
+                     {
+                        "objectid": 4504,
+                        "name": "MText [4119]"
+                     },
+                     {
+                        "objectid": 4506,
+                        "name": "MText [411E]"
+                     },
+                     {
+                        "objectid": 4508,
+                        "name": "MText [4120]"
+                     },
+                     {
+                        "objectid": 4509,
+                        "name": "MText [4124]"
+                     },
+                     {
+                        "objectid": 4511,
+                        "name": "MText [4126]"
+                     },
+                     {
+                        "objectid": 4533,
+                        "name": "MText [41C2]"
+                     },
+                     {
+                        "objectid": 4561,
+                        "name": "MText [4443]"
+                     },
+                     {
+                        "objectid": 4606,
+                        "name": "MText [449F]"
+                     },
+                     {
+                        "objectid": 4607,
+                        "name": "MText [44A0]"
+                     },
+                     {
+                        "objectid": 4608,
+                        "name": "MText [44A1]"
+                     },
+                     {
+                        "objectid": 4610,
+                        "name": "MText [44AD]"
+                     }
+                  ],
+                  "name": "MText (120)"
+               },
+               {
+                  "objectid": 4641,
+                  "objects": [
+                     {
+                        "objectid": 4634,
+                        "objects": [
+                           {
+                              "objectid": 3092,
+                              "name": "Linear [2EF6]"
+                           },
+                           {
+                              "objectid": 3545,
+                              "name": "Linear [3192]"
+                           },
+                           {
+                              "objectid": 3586,
+                              "name": "Linear [334E]"
+                           },
+                           {
+                              "objectid": 3621,
+                              "name": "Linear [337B]"
+                           },
+                           {
+                              "objectid": 3647,
+                              "name": "Linear [35A5]"
+                           },
+                           {
+                              "objectid": 3661,
+                              "name": "Linear [36F1]"
+                           },
+                           {
+                              "objectid": 3798,
+                              "name": "Linear [38A1]"
+                           },
+                           {
+                              "objectid": 3801,
+                              "name": "Linear [38A4]"
+                           },
+                           {
+                              "objectid": 4357,
+                              "name": "Linear [3F5E]"
+                           },
+                           {
+                              "objectid": 4358,
+                              "name": "Linear [3F5F]"
+                           },
+                           {
+                              "objectid": 4373,
+                              "name": "Linear [3F92]"
+                           },
+                           {
+                              "objectid": 4381,
+                              "name": "Linear [400F]"
+                           },
+                           {
+                              "objectid": 4384,
+                              "name": "Linear [4012]"
+                           },
+                           {
+                              "objectid": 4393,
+                              "name": "Linear [402D]"
+                           },
+                           {
+                              "objectid": 4528,
+                              "name": "Linear [4197]"
+                           },
+                           {
+                              "objectid": 4560,
+                              "name": "Linear [4442]"
+                           }
+                        ],
+                        "name": "Linear (16)"
+                     }
+                  ],
+                  "name": "Dimensions (16)"
+               },
+               {
+                  "objectid": 4632,
+                  "objects": [
+                     {
+                        "objectid": 3550,
+                        "name": "Leader [31E7]"
+                     },
+                     {
+                        "objectid": 3552,
+                        "name": "Leader [31F2]"
+                     },
+                     {
+                        "objectid": 3554,
+                        "name": "Leader [31F4]"
+                     },
+                     {
+                        "objectid": 3556,
+                        "name": "Leader [31F6]"
+                     },
+                     {
+                        "objectid": 3558,
+                        "name": "Leader [31F8]"
+                     },
+                     {
+                        "objectid": 3560,
+                        "name": "Leader [31FA]"
+                     },
+                     {
+                        "objectid": 3593,
+                        "name": "Leader [3356]"
+                     },
+                     {
+                        "objectid": 3595,
+                        "name": "Leader [3358]"
+                     },
+                     {
+                        "objectid": 3597,
+                        "name": "Leader [335B]"
+                     },
+                     {
+                        "objectid": 3651,
+                        "name": "Leader [3604]"
+                     },
+                     {
+                        "objectid": 3656,
+                        "name": "Leader [363F]"
+                     },
+                     {
+                        "objectid": 3659,
+                        "name": "Leader [36D8]"
+                     },
+                     {
+                        "objectid": 3666,
+                        "name": "Leader [36F8]"
+                     },
+                     {
+                        "objectid": 3668,
+                        "name": "Leader [36FA]"
+                     },
+                     {
+                        "objectid": 3696,
+                        "name": "Leader [372F]"
+                     },
+                     {
+                        "objectid": 3768,
+                        "name": "Leader [3862]"
+                     },
+                     {
+                        "objectid": 3770,
+                        "name": "Leader [3865]"
+                     },
+                     {
+                        "objectid": 4507,
+                        "name": "Leader [411F]"
+                     },
+                     {
+                        "objectid": 4510,
+                        "name": "Leader [4125]"
+                     },
+                     {
+                        "objectid": 3059,
+                        "name": "Multi-leader [2A84]"
+                     },
+                     {
+                        "objectid": 3076,
+                        "name": "Multi-leader [2C81]"
+                     },
+                     {
+                        "objectid": 4366,
+                        "name": "Multi-leader [3F67]"
+                     }
+                  ],
+                  "name": "Leaders (22)"
+               },
+               {
+                  "objectid": 4633,
+                  "objects": [
+                     {
+                        "objectid": 3089,
+                        "name": "Line [2EE1]"
+                     },
+                     {
+                        "objectid": 3528,
+                        "name": "Line [3131]"
+                     },
+                     {
+                        "objectid": 3529,
+                        "name": "Line [3132]"
+                     },
+                     {
+                        "objectid": 3544,
+                        "name": "Line [3188]"
+                     },
+                     {
+                        "objectid": 3575,
+                        "name": "Line [323E]"
+                     },
+                     {
+                        "objectid": 3620,
+                        "name": "Line [337A]"
+                     },
+                     {
+                        "objectid": 3623,
+                        "name": "Line [3528]"
+                     },
+                     {
+                        "objectid": 3637,
+                        "name": "Line [3537]"
+                     },
+                     {
+                        "objectid": 3640,
+                        "name": "Line [353B]"
+                     },
+                     {
+                        "objectid": 3655,
+                        "name": "Line [362C]"
+                     },
+                     {
+                        "objectid": 3687,
+                        "name": "Line [3716]"
+                     },
+                     {
+                        "objectid": 3688,
+                        "name": "Line [3724]"
+                     },
+                     {
+                        "objectid": 3691,
+                        "name": "Line [3727]"
+                     },
+                     {
+                        "objectid": 3694,
+                        "name": "Line [372D]"
+                     },
+                     {
+                        "objectid": 3816,
+                        "name": "Line [38CB]"
+                     },
+                     {
+                        "objectid": 3824,
+                        "name": "Line [38D3]"
+                     },
+                     {
+                        "objectid": 4348,
+                        "name": "Line [3F50]"
+                     },
+                     {
+                        "objectid": 4349,
+                        "name": "Line [3F51]"
+                     },
+                     {
+                        "objectid": 4350,
+                        "name": "Line [3F52]"
+                     },
+                     {
+                        "objectid": 4351,
+                        "name": "Line [3F56]"
+                     },
+                     {
+                        "objectid": 4352,
+                        "name": "Line [3F57]"
+                     },
+                     {
+                        "objectid": 4353,
+                        "name": "Line [3F5A]"
+                     },
+                     {
+                        "objectid": 4354,
+                        "name": "Line [3F5B]"
+                     },
+                     {
+                        "objectid": 4355,
+                        "name": "Line [3F5C]"
+                     },
+                     {
+                        "objectid": 4356,
+                        "name": "Line [3F5D]"
+                     },
+                     {
+                        "objectid": 4501,
+                        "name": "Line [4116]"
+                     },
+                     {
+                        "objectid": 4502,
+                        "name": "Line [4117]"
+                     },
+                     {
+                        "objectid": 4505,
+                        "name": "Line [411A]"
+                     }
+                  ],
+                  "name": "Lines (28)"
+               },
+               {
+                  "objectid": 4637,
+                  "objects": [
+                     {
+                        "objectid": 3061,
+                        "name": "Polyline [2A88]"
+                     },
+                     {
+                        "objectid": 3078,
+                        "name": "Polyline [2C83]"
+                     },
+                     {
+                        "objectid": 3083,
+                        "name": "Polyline [2EDA]"
+                     },
+                     {
+                        "objectid": 3087,
+                        "name": "Polyline [2EDE]"
+                     },
+                     {
+                        "objectid": 3088,
+                        "name": "Polyline [2EDF]"
+                     },
+                     {
+                        "objectid": 3101,
+                        "name": "Polyline [2F6B]"
+                     },
+                     {
+                        "objectid": 3102,
+                        "name": "Polyline [2F6C]"
+                     },
+                     {
+                        "objectid": 3104,
+                        "name": "Polyline [2F6E]"
+                     },
+                     {
+                        "objectid": 3527,
+                        "name": "Polyline [3115]"
+                     },
+                     {
+                        "objectid": 3530,
+                        "name": "Polyline [3133]"
+                     },
+                     {
+                        "objectid": 3531,
+                        "name": "Polyline [3150]"
+                     },
+                     {
+                        "objectid": 3532,
+                        "name": "Polyline [3151]"
+                     },
+                     {
+                        "objectid": 3534,
+                        "name": "Polyline [3153]"
+                     },
+                     {
+                        "objectid": 3535,
+                        "name": "Polyline [3154]"
+                     },
+                     {
+                        "objectid": 3537,
+                        "name": "Polyline [3178]"
+                     },
+                     {
+                        "objectid": 3538,
+                        "name": "Polyline [3179]"
+                     },
+                     {
+                        "objectid": 3541,
+                        "name": "Polyline [317C]"
+                     },
+                     {
+                        "objectid": 3542,
+                        "name": "Polyline [317D]"
+                     },
+                     {
+                        "objectid": 3564,
+                        "name": "Polyline [321A]"
+                     },
+                     {
+                        "objectid": 3568,
+                        "name": "Polyline [3224]"
+                     },
+                     {
+                        "objectid": 3569,
+                        "name": "Polyline [3225]"
+                     },
+                     {
+                        "objectid": 3570,
+                        "name": "Polyline [3226]"
+                     },
+                     {
+                        "objectid": 3571,
+                        "name": "Polyline [3227]"
+                     },
+                     {
+                        "objectid": 3572,
+                        "name": "Polyline [3234]"
+                     },
+                     {
+                        "objectid": 3573,
+                        "name": "Polyline [3235]"
+                     },
+                     {
+                        "objectid": 3579,
+                        "name": "Polyline [3290]"
+                     },
+                     {
+                        "objectid": 3592,
+                        "name": "Polyline [3355]"
+                     },
+                     {
+                        "objectid": 3601,
+                        "name": "Polyline [3366]"
+                     },
+                     {
+                        "objectid": 3602,
+                        "name": "Polyline [3367]"
+                     },
+                     {
+                        "objectid": 3605,
+                        "name": "Polyline [336A]"
+                     },
+                     {
+                        "objectid": 3606,
+                        "name": "Polyline [336B]"
+                     },
+                     {
+                        "objectid": 3607,
+                        "name": "Polyline [336C]"
+                     },
+                     {
+                        "objectid": 3608,
+                        "name": "Polyline [336D]"
+                     },
+                     {
+                        "objectid": 3609,
+                        "name": "Polyline [336F]"
+                     },
+                     {
+                        "objectid": 3614,
+                        "name": "Polyline [3374]"
+                     },
+                     {
+                        "objectid": 3618,
+                        "name": "Polyline [3378]"
+                     },
+                     {
+                        "objectid": 3619,
+                        "name": "Polyline [3379]"
+                     },
+                     {
+                        "objectid": 3624,
+                        "name": "Polyline [352A]"
+                     },
+                     {
+                        "objectid": 3625,
+                        "name": "Polyline [352B]"
+                     },
+                     {
+                        "objectid": 3627,
+                        "name": "Polyline [352D]"
+                     },
+                     {
+                        "objectid": 3628,
+                        "name": "Polyline [352E]"
+                     },
+                     {
+                        "objectid": 3630,
+                        "name": "Polyline [3530]"
+                     },
+                     {
+                        "objectid": 3631,
+                        "name": "Polyline [3531]"
+                     },
+                     {
+                        "objectid": 3634,
+                        "name": "Polyline [3534]"
+                     },
+                     {
+                        "objectid": 3635,
+                        "name": "Polyline [3535]"
+                     },
+                     {
+                        "objectid": 3654,
+                        "name": "Polyline [362B]"
+                     },
+                     {
+                        "objectid": 3665,
+                        "name": "Polyline [36F7]"
+                     },
+                     {
+                        "objectid": 3672,
+                        "name": "Polyline [3700]"
+                     },
+                     {
+                        "objectid": 3673,
+                        "name": "Polyline [3701]"
+                     },
+                     {
+                        "objectid": 3676,
+                        "name": "Polyline [3704]"
+                     },
+                     {
+                        "objectid": 3677,
+                        "name": "Polyline [3705]"
+                     },
+                     {
+                        "objectid": 3678,
+                        "name": "Polyline [3706]"
+                     },
+                     {
+                        "objectid": 3679,
+                        "name": "Polyline [3707]"
+                     },
+                     {
+                        "objectid": 3680,
+                        "name": "Polyline [3708]"
+                     },
+                     {
+                        "objectid": 3693,
+                        "name": "Polyline [372C]"
+                     },
+                     {
+                        "objectid": 3797,
+                        "name": "Polyline [38A0]"
+                     },
+                     {
+                        "objectid": 3813,
+                        "name": "Polyline [38C8]"
+                     },
+                     {
+                        "objectid": 3814,
+                        "name": "Polyline [38C9]"
+                     },
+                     {
+                        "objectid": 3815,
+                        "name": "Polyline [38CA]"
+                     },
+                     {
+                        "objectid": 3821,
+                        "name": "Polyline [38D0]"
+                     },
+                     {
+                        "objectid": 3822,
+                        "name": "Polyline [38D1]"
+                     },
+                     {
+                        "objectid": 3823,
+                        "name": "Polyline [38D2]"
+                     },
+                     {
+                        "objectid": 4380,
+                        "name": "Polyline [400E]"
+                     },
+                     {
+                        "objectid": 4491,
+                        "name": "Polyline [4107]"
+                     },
+                     {
+                        "objectid": 4492,
+                        "name": "Polyline [4108]"
+                     },
+                     {
+                        "objectid": 4495,
+                        "name": "Polyline [410B]"
+                     },
+                     {
+                        "objectid": 4496,
+                        "name": "Polyline [410C]"
+                     },
+                     {
+                        "objectid": 4497,
+                        "name": "Polyline [410D]"
+                     },
+                     {
+                        "objectid": 4498,
+                        "name": "Polyline [410E]"
+                     },
+                     {
+                        "objectid": 4499,
+                        "name": "Polyline [410F]"
+                     },
+                     {
+                        "objectid": 4513,
+                        "name": "Polyline [4133]"
+                     },
+                     {
+                        "objectid": 4609,
+                        "name": "Polyline [44AC]"
+                     }
+                  ],
+                  "name": "Polylines (72)"
+               },
+               {
+                  "objectid": 4638,
+                  "objects": [
+                     {
+                        "objectid": 3105,
+                        "name": "Polyline [2F6F]"
+                     },
+                     {
+                        "objectid": 3166,
+                        "name": "Polyline [2FAC]"
+                     },
+                     {
+                        "objectid": 3226,
+                        "name": "Polyline [2FE8]"
+                     },
+                     {
+                        "objectid": 3286,
+                        "name": "Polyline [3024]"
+                     },
+                     {
+                        "objectid": 3346,
+                        "name": "Polyline [3060]"
+                     },
+                     {
+                        "objectid": 3406,
+                        "name": "Polyline [309C]"
+                     },
+                     {
+                        "objectid": 3466,
+                        "name": "Polyline [30D8]"
+                     }
+                  ],
+                  "name": "2D Polylines (7)"
+               },
+               {
+                  "objectid": 4630,
+                  "objects": [
+                     {
+                        "objectid": 3103,
+                        "name": "Circle [2F6D]"
+                     },
+                     {
+                        "objectid": 3533,
+                        "name": "Circle [3152]"
+                     },
+                     {
+                        "objectid": 3536,
+                        "name": "Circle [3155]"
+                     },
+                     {
+                        "objectid": 3539,
+                        "name": "Circle [317A]"
+                     },
+                     {
+                        "objectid": 3543,
+                        "name": "Circle [317E]"
+                     },
+                     {
+                        "objectid": 3626,
+                        "name": "Circle [352C]"
+                     },
+                     {
+                        "objectid": 3629,
+                        "name": "Circle [352F]"
+                     },
+                     {
+                        "objectid": 3632,
+                        "name": "Circle [3532]"
+                     },
+                     {
+                        "objectid": 3636,
+                        "name": "Circle [3536]"
+                     },
+                     {
+                        "objectid": 4397,
+                        "name": "Circle [406B]"
+                     },
+                     {
+                        "objectid": 4399,
+                        "name": "Circle [406D]"
+                     },
+                     {
+                        "objectid": 4400,
+                        "name": "Circle [406E]"
+                     }
+                  ],
+                  "name": "Circles (12)"
+               },
+               {
+                  "objectid": 4636,
+                  "objects": [
+                     {
+                        "objectid": 4403,
+                        "name": "Point [4071]"
+                     }
+                  ],
+                  "name": "Other Entities (1)"
+               }
+            ],
+            "name": "Model"
+         }
+      ]
+   }
+}
